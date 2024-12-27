@@ -14,8 +14,8 @@ The Breast Cancer dataset consists of the following:
   - `feature_names`: Names of the 30 features.
   - `target_names`: Names of the target classes ("malignant" and "benign").
   - `DESCR`: Detailed description of the dataset.
-  - `frame`: DataFrame (if available).
-  - `filename`: Path to the data file (if available).
+  - `frame`: DataFrame .
+  - `filename`: Path to the data file .
 
 ## Project Features
 The project focuses on the following steps:
